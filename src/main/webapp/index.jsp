@@ -39,6 +39,9 @@
             alert("Welcome to our webpage! We're happy to see you here.");
         }
     </script>
+    <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
+
+
 
 </body>
 </html>
